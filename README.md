@@ -18,12 +18,6 @@
 * **Shoot:** Automatic
 * **Goal:** Survive as many waves as possible and achieve a high score!
 
-## Screenshots
-
-![Menu Screen](screenshot_menu.png)
-![Gameplay](screenshot_gameplay.png)
-![Game Over](screenshot_gameover.png)
-
 ## Tech Stack
 
 * **HTML5 Canvas** for rendering
